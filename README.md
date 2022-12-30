@@ -1,4 +1,4 @@
-# Docker 環境で Laravel の検証環境を構築
+# Docker 環境で Go の検証環境を構築
 
 ## 技術スタック
 
